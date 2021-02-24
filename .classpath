@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ProjetReseauDeBus/src"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/ProjetReseauDeBus.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run1267528431/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run1267528431/ProjetReseauDeBus.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run1367506588/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run1367506588/ProjetReseauDeBus.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run1985106982/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run1985106982/ProjetReseauDeBus.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run738116435/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run738116435/ProjetReseauDeBus.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run74390170/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="ProjetReseauDeBus/dist/run74390170/ProjetReseauDeBus.jar"/>
+	<classpathentry kind="output" path="ProjetReseauDeBus/build/classes"/>
+</classpath>

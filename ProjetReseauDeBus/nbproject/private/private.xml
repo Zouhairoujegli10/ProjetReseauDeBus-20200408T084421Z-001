@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusInterface/InterfaceUtilisateur.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/bus.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/onMarche.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusInterface/ReaffecterUnBus.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusInterface/ArreterUnBus.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/BusDAO.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/ArretDAO.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/reseauBus.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/LigneBusDAO.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/onStop.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusInterface/AjouterUnBus.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/etat.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/busLigneBus.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/ligneBus.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/DAO.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusClasse/Main.java</file>
+            <file>file:/C:/Users/Karim/Documents/NetBeansProjects/ProjetReseauDeBus/src/ProjetReseauBusInterface/DemarrerUnBus.java</file>
+        </group>
+    </open-files>
+</project-private>
